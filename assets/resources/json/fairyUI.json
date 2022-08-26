@@ -1,0 +1,8 @@
+{
+    "Common": {
+        "url": "fairyUI/Common",
+        "pakegeName": "Common",
+        "isLoaded": false,
+        "isRemove": false
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <controller name="isLock" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n0_rjx7" name="n0" xy="0,0" size="100,100" url="ui://673r7v45cav42">
+      <gearIcon controller="isLock" pages="0" values="ui://673r7v45cav42" default="ui://673r7v45cav41"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

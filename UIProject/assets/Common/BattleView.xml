@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="828,1792" opaque="false">
+  <displayList>
+    <text id="n0_cav4" name="txtTip" xy="0,0" size="101,59" fontSize="48" align="center" autoClearText="true" text="左上"/>
+    <text id="n7_rjx7" name="txtTip2" xy="725,0" size="101,59" fontSize="48" align="center" autoClearText="true" text="右上">
+      <relation target="" sidePair="right-right"/>
+    </text>
+    <text id="n8_rjx7" name="txtTip3" xy="0,1733" size="101,59" fontSize="48" align="center" autoClearText="true" text="左下">
+      <relation target="" sidePair="bottom-bottom"/>
+    </text>
+    <text id="n9_rjx7" name="txtTip4" xy="725,1733" size="101,59" fontSize="48" align="center" autoClearText="true" text="右下">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </text>
+    <text id="n10_xoiv" name="txtScore" xy="13,148" size="59,59" fontSize="48" text="99"/>
+  </displayList>
+</component>

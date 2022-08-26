@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="673r7v45" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="cav40" name="ResultView.xml" path="/" exported="true"/>
+    <image id="cav41" name="建筑锁-关闭.png" path="/res/"/>
+    <image id="cav42" name="建筑锁-开启.png" path="/res/"/>
+    <component id="rjx74" name="btnLock.xml" path="/sub/" exported="true"/>
+    <component id="xoiv5" name="HomeView.xml" path="/" exported="true"/>
+    <component id="xoiv6" name="AAAA.xml" path="/" exported="true"/>
+    <component id="xoiv7" name="BattleView.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Common" genCode="true"/>
+</packageDescription>

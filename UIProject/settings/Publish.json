@@ -1,0 +1,16 @@
+{
+	"binaryFormat":true,
+	"codeGeneration":{
+		"classNamePrefix":"UI_",
+		"codePath":"G:\\workSpace\\DemoCreator3.5.2\\assets\\resources\\fairyUI",
+		"codeType":"",
+		"getMemberByName":true,
+		"ignoreNoname":false,
+		"memberNamePrefix":"",
+		"packageName":""
+	},
+	"compressDesc":true,
+	"fileExtension":"bin",
+	"packageCount":2,
+	"path":"G:\\workSpace\\DemoCreator3.5.2\\assets\\resources\\fairyUI"
+}

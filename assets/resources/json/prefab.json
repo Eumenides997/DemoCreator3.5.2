@@ -1,0 +1,42 @@
+{
+    "SpriteSplash": {
+        "url": "prefab/SpriteSplash",
+        "name": "SpriteSplash"
+    },
+    "Label": {
+        "url": "prefab/Label",
+        "name": "Label"
+    },
+    "Box2D": {
+        "url": "prefab/Box2D",
+        "name": "Box2D"
+    },
+    "DemoBlock1": {
+        "url": "prefab/DemoBlock1",
+        "name": "DemoBlock1"
+    },
+    "DemoBlock2": {
+        "url": "prefab/DemoBlock2",
+        "name": "DemoBlock2"
+    },
+    "DemoBlock3": {
+        "url": "prefab/DemoBlock3",
+        "name": "DemoBlock3"
+    },
+    "DemoBlock4": {
+        "url": "prefab/DemoBlock4",
+        "name": "DemoBlock4"
+    },
+    "DemoBlock5": {
+        "url": "prefab/DemoBlock5",
+        "name": "DemoBlock5"
+    },
+    "DemoBlock6": {
+        "url": "prefab/DemoBlock6",
+        "name": "DemoBlock6"
+    },
+    "DemoBlock7": {
+        "url": "prefab/DemoBlock7",
+        "name": "DemoBlock7"
+    }
+}

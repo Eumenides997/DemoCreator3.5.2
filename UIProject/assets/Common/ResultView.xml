@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="828,1792" opaque="false">
+  <displayList>
+    <text id="n0_cav4" name="txtTip" xy="285,726" size="257,59" fontSize="48" align="center" autoClearText="true" text="Game Over">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n6_rjx7" name="btnLock" src="rjx74" fileName="sub/btnLock.xml" xy="364,846" controller="isLock,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

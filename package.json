@@ -1,0 +1,11 @@
+{
+  "name": "Demo",
+  "uuid": "6e7b5225-ddbc-4dd7-8d83-67947b49b8cd",
+  "version": "3.5.2",
+  "creator": {
+    "version": "3.5.2"
+  },
+  "dependencies": {
+    "fairygui-cc": "^1.1.1"
+  }
+}
